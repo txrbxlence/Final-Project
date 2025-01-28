@@ -25,11 +25,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/main/resources/ERD.pdf</name>
-			<type>1</type>
-			<location>/Users/zeltron9.0/Programming/BE-Promineo-Tech/Week-18-Finish_and_Submit_Final_Project/ERD.pdf</location>
-		</link>
-	</linkedResources>
 </projectDescription>
